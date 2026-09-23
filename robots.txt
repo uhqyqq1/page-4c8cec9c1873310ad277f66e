@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://z90e.cn/sitemap.xml
